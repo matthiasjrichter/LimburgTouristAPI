@@ -31,6 +31,14 @@ let locations = {
         Auf ihr überquerte im Mittelalter die Via Publica von Köln nach Frankfurt sowie später die Straße von Siegen nach Wiesbaden (damals Verlauf der B 54) die Lahn. Seit dem Bau der neuen Lahnbrücke im Jahr 1968, ca. 200 Meter flussabwärts, wird die Alte Lahnbrücke von keiner Fernstraße mehr genutzt. Gemeinsam mit dem Limburger Dom ist die Alte Lahnbrücke eines der beliebtesten Fotomotive in Limburg.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Alte_Lahnbr%C3%BCcke_(Limburg)"
     },
+    'werner-senger-haus':{
+        "id": 4,
+        "locationName": "Werner-Senger-Haus",
+        "locationAddress": "Rütsche 5",
+        "locationCoordinates": `50°23'21,2"N 8°3'51,9"E`,
+        "locationDescription_de":`Das Werner-Senger-Haus ist ein denkmalgeschütztes Fachwerkhaus aus dem 13. Jahrhundert in der Altstadt von Limburg an der Lahn, Rütsche 5. Es war einst über Jahrhunderte hinweg der Sitz wohlhabender Limburger Kaufleute. Ob das Haus jemals von dem in der nahegelegenen Brückengasse wohnenden Kaufmann Werner Senger bewohnt war und wie es irrtümlich zu seinem Namen kam, ist bis heute ungeklärt.`,
+        "wikipedia_de": "https://de.wikipedia.org/wiki/Werner-Senger-Haus"
+    },
     'unknown':{
         "id": 0,
         "locationName": "unknown",
