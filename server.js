@@ -6,23 +6,23 @@ const PORT = 8000
 app.use(cors())
 
 let locations = {
-    'limburger dom': {
+    'limburger-dom': {
         "id": 1,
         "locationName": "Dom zu Limburg",
         "locationAddress": "Domplatz",
         "locationCoordinates": `50°23'19.7"N 8°03'60.0"E`,
-        "locationDescription_de":"Der Limburger Dom, nach seinem Schutzpatron St. Georg auch Georgsdom genannt, ist seit 1827 die Kathedralkirche des Bistums Limburg und thront oberhalb der Altstadt von Limburg an der Lahn neben der Burg Limburg. Die hohe Lage auf dem Kalkfelsen oberhalb der Lahn sorgt dafür, dass der Dom weithin sichtbar ist. Er hat sieben Türme, mehr als jede andere Kirche in Deutschland.",
+        "locationDescription_de":`Der Limburger Dom, nach seinem Schutzpatron St. Georg auch Georgsdom genannt, ist seit 1827 die Kathedralkirche des Bistums Limburg und thront oberhalb der Altstadt von Limburg an der Lahn neben der Burg Limburg. Die hohe Lage auf dem Kalkfelsen oberhalb der Lahn sorgt dafür, dass der Dom weithin sichtbar ist. Er hat sieben Türme, mehr als jede andere Kirche in Deutschland.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Limburger_Dom"
     },
-    'schloss limburg':{
+    'schloss-limburg':{
         "id": 2,
         "locationName": "Schloss Limburg",
         "locationAddress": "Mühlberg 2",
         "locationCoordinates": `50°23'18.5"N 8°04'03.2"E`,
-        "locationDescription_de":"Die Burg Limburg, auch Limburger Schloss genannt, ist eine mittelalterliche Felsenburg in Limburg an der Lahn im hessischen Landkreis Limburg-Weilburg.",
+        "locationDescription_de":`Die Burg Limburg, auch Limburger Schloss genannt, ist eine mittelalterliche Felsenburg in Limburg an der Lahn im hessischen Landkreis Limburg-Weilburg.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Burg_Limburg_(Hessen)"
     },
-    'alte lahnbrücke':{
+    'alte-lahnbrücke':{
         "id": 3,
         "locationName": "Alte Lahnbrücke",
         "locationAddress": "unknown",
