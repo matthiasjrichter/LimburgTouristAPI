@@ -39,6 +39,14 @@ let locations = {
         "locationDescription_de":`Das Werner-Senger-Haus ist ein denkmalgeschütztes Fachwerkhaus aus dem 13. Jahrhundert in der Altstadt von Limburg an der Lahn, Rütsche 5. Es war einst über Jahrhunderte hinweg der Sitz wohlhabender Limburger Kaufleute. Ob das Haus jemals von dem in der nahegelegenen Brückengasse wohnenden Kaufmann Werner Senger bewohnt war und wie es irrtümlich zu seinem Namen kam, ist bis heute ungeklärt.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Werner-Senger-Haus"
     },
+    'neues-rathaus':{
+        "id": 5,
+        "locationName": "Neues Rathaus",
+        "locationAddress": "Werner-Senger-Straße 10",
+        "locationCoordinates": `50°23'12,5"N 8°3'40,2"O`,
+        "locationDescription_de":`Das Neue Rathaus ist seit 1900 das Rathaus der mittelhessischen Kreisstadt Limburg an der Lahn. Seit spätestens 1502 wurde das Haus Fischmarkt 21 als Rathaus genutzt, dieses wurde jedoch im 19. Jahrhundert zu klein. Ab 1865 zog die Verwaltung in ein Schulgebäude am Neumarkt, bevor am 1. Dezember 1892 die Stadtverordnetenversammlung einen Neubau beschloss. Am 31. Oktober 1895 kaufte die Stadt schließlich ein Grundstück an der kürzlich erschlossenen Werner-Senger-Straße; 1897 wurden die Pläne fertiggestellt. Verantwortlich für den 100.000 Mark teuren Bau zeichneten der Wiesbadener Stadtbaumeister Felix Genzmer, dem der größere Anteil zugeschrieben wird, sowie der Limburger Stadtbaumeister Joseph Kauter. Laut Inschrift im Giebel wurde das Gebäude 1898 fertig gestellt, der Bezug erfolgte 1899 bis 1900.`,
+        "wikipedia_de": "https://de.wikipedia.org/wiki/Neues_Rathaus_(Limburg_an_der_Lahn)"
+    },
     'unknown':{
         "id": 0,
         "locationName": "unknown",
