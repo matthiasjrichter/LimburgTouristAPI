@@ -46,6 +46,14 @@ let locations = {
         "locationDescription_de":`Das Neue Rathaus ist seit 1900 das Rathaus der mittelhessischen Kreisstadt Limburg an der Lahn. Seit spätestens 1502 wurde das Haus Fischmarkt 21 als Rathaus genutzt, dieses wurde jedoch im 19. Jahrhundert zu klein. Ab 1865 zog die Verwaltung in ein Schulgebäude am Neumarkt, bevor am 1. Dezember 1892 die Stadtverordnetenversammlung einen Neubau beschloss. Am 31. Oktober 1895 kaufte die Stadt schließlich ein Grundstück an der kürzlich erschlossenen Werner-Senger-Straße; 1897 wurden die Pläne fertiggestellt. Verantwortlich für den 100.000 Mark teuren Bau zeichneten der Wiesbadener Stadtbaumeister Felix Genzmer, dem der größere Anteil zugeschrieben wird, sowie der Limburger Stadtbaumeister Joseph Kauter. Laut Inschrift im Giebel wurde das Gebäude 1898 fertig gestellt, der Bezug erfolgte 1899 bis 1900.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Neues_Rathaus_(Limburg_an_der_Lahn)"
     },
+    'haus-der-sieben-laster':{
+        "id": 6,
+        "locationName": "Haus der sieben Laster",
+        "locationAddress": "Brückengasse 9",
+        "locationCoordinates": `50°23'22,9"N 8°3'52,4"O`,
+        "locationDescription_de":`Das Haus der sieben Laster ist ein denkmalgeschütztes Fachwerkhaus aus dem 16. Jahrhundert in der Altstadt von Limburg an der Lahn, dessen Fassade von Schnitzereien geziert wird, die allgemein hin als die sieben biblischen Laster Hochmut, Neid, Unmäßigkeit, Geiz, Wollust, Zorn und Trägheit gedeutet werden.`,
+        "wikipedia_de": "https://de.wikipedia.org/wiki/Haus_der_sieben_Laster"
+    },
     'unknown':{
         "id": 0,
         "locationName": "unknown",
