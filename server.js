@@ -54,6 +54,14 @@ let locations = {
         "locationDescription_de":`Das Haus der sieben Laster ist ein denkmalgeschütztes Fachwerkhaus aus dem 16. Jahrhundert in der Altstadt von Limburg an der Lahn, dessen Fassade von Schnitzereien geziert wird, die allgemein hin als die sieben biblischen Laster Hochmut, Neid, Unmäßigkeit, Geiz, Wollust, Zorn und Trägheit gedeutet werden.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Haus_der_sieben_Laster"
     },
+    'roemer-2-4-6':{
+        "id": 7,
+        "locationName": "Römer 2-4-6",
+        "locationAddress": "Römer 4",
+        "locationCoordinates": `50°23'20,9"N 8°3'52,2"O`,
+        "locationDescription_de":`Römer 2-4-6 ist die Bezeichnung für ein gotisches Fachwerkhaus, dessen älteste verbaute Teile aus dem Jahr 1289 stammen. Damit ist der Römer 2-4-6 heute eines der ältesten, freistehenden Fachwerkhäuser in Deutschland und nationales Denkmal. Es steht in der historischen Altstadt von Limburg an der Lahn. Der Name leitet sich ab von der Straßenbezeichnung sowie den Hausnummern. Außerdem ist der Römer 2-4-6 das älteste Fachwerkhaus Limburgs.`,
+        "wikipedia_de": "https://de.wikipedia.org/wiki/R%C3%B6mer_2-4-6"
+    },
     'unknown':{
         "id": 0,
         "locationName": "unknown",
