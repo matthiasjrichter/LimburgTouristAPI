@@ -62,6 +62,14 @@ let locations = {
         "locationDescription_de":`Römer 2-4-6 ist die Bezeichnung für ein gotisches Fachwerkhaus, dessen älteste verbaute Teile aus dem Jahr 1289 stammen. Damit ist der Römer 2-4-6 heute eines der ältesten, freistehenden Fachwerkhäuser in Deutschland und nationales Denkmal. Es steht in der historischen Altstadt von Limburg an der Lahn. Der Name leitet sich ab von der Straßenbezeichnung sowie den Hausnummern. Außerdem ist der Römer 2-4-6 das älteste Fachwerkhaus Limburgs.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/R%C3%B6mer_2-4-6"
     },
+    'kleine-ruetsche-4':{
+        "id": 8,
+        "locationName": "Kleine Rütsche 4",
+        "locationAddress": "Kleine Rütsche 4",
+        "locationCoordinates": `50°23'20,4"N 8°3'49,3"E`,
+        "locationDescription_de":`Das Haus Kleine Rütsche 4 ist ein denkmalgeschütztes Fachwerkhaus aus dem 13. Jahrhundert und eines der ältesten in der Altstadt von Limburg an der Lahn mit stadträumlicher Bedeutung.`,
+        "wikipedia_de": "https://de.wikipedia.org/wiki/Kleine_R%C3%BCtsche_4"
+    },
     'unknown':{
         "id": 0,
         "locationName": "unknown",
