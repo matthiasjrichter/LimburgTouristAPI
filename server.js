@@ -70,6 +70,14 @@ let locations = {
         "locationDescription_de":`Das Haus Kleine Rütsche 4 ist ein denkmalgeschütztes Fachwerkhaus aus dem 13. Jahrhundert und eines der ältesten in der Altstadt von Limburg an der Lahn mit stadträumlicher Bedeutung.`,
         "wikipedia_de": "https://de.wikipedia.org/wiki/Kleine_R%C3%BCtsche_4"
     },
+    'zum-goldenen-hirsch':{
+        "id": 9,
+        "locationName": "Zum Goldenen Hirsch",
+        "locationAddress": "Kornmarkt 3",
+        "locationCoordinates": `50°23'16,7"N 8°3'52,3"E`,
+        "locationDescription_de":`Das Haus Zum Goldenen Hirsch ist ein ehemaliges Gasthaus am Kornmarkt in Limburg an der Lahn, Hessen. Der Kernbau entstand um 1500, bereits aus dieser Zeit stammt der Polygonalerker in Richtung Kornmarkt. Seit 1527 wurde das Gebäude als Gasthaus Zum goldnen Hirsch geführt, hiervon zeugt das heute noch erhaltene Wirtshausschild, urkundlich sicher erwähnt wurde es 1590 als Eigentum des Peter aus Trier. Nach mehreren Besitzerwechseln wurde das Haus 1812 von Friedrich Fachinger ersteigert.`,
+        "wikipedia_de": "https://de.wikipedia.org/wiki/Zum_Goldenen_Hirsch_(Limburg_an_der_Lahn)"
+    },
     'unknown':{
         "id": 0,
         "locationName": "unknown",
