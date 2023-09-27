@@ -15,6 +15,7 @@ API providing location names, descriptions, wikipedia links, addresses and coord
 3. Create a small showcase project.
 4. Add more instructions to index.html.
 5. Add CSS to index.html.
+6. Add location images.
 
 
 ## Lessons Learned:
