@@ -85,7 +85,7 @@ let locations = {
     id: 10,
     locationName: "Walderdorffer Hof",
     locationAddress: "Fahrgasse 5",
-    locationCoordinates: `50°23'21,5"N 8°3'49"O`,
+    locationCoordinates: `50°23'21,5"N 8°3'49"E`,
     locationDescription_de: `Der Walderdorffer Hof ist eine große, denkmalgeschützte Hofanlage in der Altstadt von Limburg an der Lahn.`,
     wikipedia_de:
       "https://de.wikipedia.org/wiki/Walderdorffer_Hof_(Limburg_an_der_Lahn)",
