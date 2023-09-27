@@ -28,8 +28,7 @@ let locations = {
     locationAddress: "unknown",
     locationCoordinates: `50°23'26.6"N 8°03'53.1"E`,
     locationDescription_de: `Die Alte Lahnbrücke ist eine im 14. Jahrhundert gebaute Brücke in Limburg an der Lahn. Auf ihr überquerte im Mittelalter die Via Publica von Köln nach Frankfurt sowie später die Straße von Siegen nach Wiesbaden (damals Verlauf der B 54) die Lahn. Seit dem Bau der neuen Lahnbrücke im Jahr 1968, ca. 200 Meter flussabwärts, wird die Alte Lahnbrücke von keiner Fernstraße mehr genutzt. Gemeinsam mit dem Limburger Dom ist die Alte Lahnbrücke eines der beliebtesten Fotomotive in Limburg.`,
-    wikipedia_de:
-      "https://de.wikipedia.org/wiki/Alte_Lahnbr%C3%BCcke_(Limburg)",
+    wikipedia_de: "https://de.wikipedia.org/wiki/Alte_Lahnbr%C3%BCcke_(Limburg)",
   },
   "werner-senger-haus": {
     id: 4,
@@ -45,8 +44,7 @@ let locations = {
     locationAddress: "Werner-Senger-Straße 10",
     locationCoordinates: `50°23'12,5"N 8°3'40,2"E`,
     locationDescription_de: `Das Neue Rathaus ist seit 1900 das Rathaus der mittelhessischen Kreisstadt Limburg an der Lahn. Seit spätestens 1502 wurde das Haus Fischmarkt 21 als Rathaus genutzt, dieses wurde jedoch im 19. Jahrhundert zu klein. Ab 1865 zog die Verwaltung in ein Schulgebäude am Neumarkt, bevor am 1. Dezember 1892 die Stadtverordnetenversammlung einen Neubau beschloss. Am 31. Oktober 1895 kaufte die Stadt schließlich ein Grundstück an der kürzlich erschlossenen Werner-Senger-Straße; 1897 wurden die Pläne fertiggestellt. Verantwortlich für den 100.000 Mark teuren Bau zeichneten der Wiesbadener Stadtbaumeister Felix Genzmer, dem der größere Anteil zugeschrieben wird, sowie der Limburger Stadtbaumeister Joseph Kauter. Laut Inschrift im Giebel wurde das Gebäude 1898 fertig gestellt, der Bezug erfolgte 1899 bis 1900.`,
-    wikipedia_de:
-      "https://de.wikipedia.org/wiki/Neues_Rathaus_(Limburg_an_der_Lahn)",
+    wikipedia_de: "https://de.wikipedia.org/wiki/Neues_Rathaus_(Limburg_an_der_Lahn)",
   },
   "haus-der-sieben-laster": {
     id: 6,
@@ -78,8 +76,7 @@ let locations = {
     locationAddress: "Kornmarkt 3",
     locationCoordinates: `50°23'16,7"N 8°3'52,3"E`,
     locationDescription_de: `Das Haus Zum Goldenen Hirsch ist ein ehemaliges Gasthaus am Kornmarkt in Limburg an der Lahn, Hessen. Der Kernbau entstand um 1500, bereits aus dieser Zeit stammt der Polygonalerker in Richtung Kornmarkt. Seit 1527 wurde das Gebäude als Gasthaus Zum goldnen Hirsch geführt, hiervon zeugt das heute noch erhaltene Wirtshausschild, urkundlich sicher erwähnt wurde es 1590 als Eigentum des Peter aus Trier. Nach mehreren Besitzerwechseln wurde das Haus 1812 von Friedrich Fachinger ersteigert.`,
-    wikipedia_de:
-      "https://de.wikipedia.org/wiki/Zum_Goldenen_Hirsch_(Limburg_an_der_Lahn)",
+    wikipedia_de: "https://de.wikipedia.org/wiki/Zum_Goldenen_Hirsch_(Limburg_an_der_Lahn)",
   },
   "walderdorffer-hof": {
     id: 10,
@@ -87,8 +84,7 @@ let locations = {
     locationAddress: "Fahrgasse 5",
     locationCoordinates: `50°23'21,5"N 8°3'49"E`,
     locationDescription_de: `Der Walderdorffer Hof ist eine große, denkmalgeschützte Hofanlage in der Altstadt von Limburg an der Lahn.`,
-    wikipedia_de:
-      "https://de.wikipedia.org/wiki/Walderdorffer_Hof_(Limburg_an_der_Lahn)",
+    wikipedia_de: "https://de.wikipedia.org/wiki/Walderdorffer_Hof_(Limburg_an_der_Lahn)",
   },
   unknown: {
     id: 0,
