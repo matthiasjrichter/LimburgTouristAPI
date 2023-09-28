@@ -5,7 +5,7 @@ API providing location names, descriptions, wikipedia links, addresses and coord
 
 ## How It's Made:
 
-**Tech used:** HTML, JavaScript, Node.js, Express 
+**Tech used:** HTML, JavaScript, Node.js, Express.js
 
 
 ## Optimizations
